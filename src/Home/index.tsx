@@ -12,7 +12,7 @@ const Home = () => {
 
       <br/>
 
-      <Link to="/cat/x8sLRmUBQ">
+      <Link to="/cat/x8sLRmUBQ/description/Abyssinian">
         <button>Cat 2</button>
       </Link>
       <br/>
